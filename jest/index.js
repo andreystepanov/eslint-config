@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    'jest/globals': true,
+    jest: true,
   },
   plugins: ['jest'],
   rules: {
